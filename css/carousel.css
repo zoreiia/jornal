@@ -1,0 +1,12 @@
+div#carousel {
+    position: absolute;top: 13%;
+    width: 80%;
+    height: 50%;
+    margin-left: 15%;
+    border: solid red;
+    float: left;
+}
+.fotos img{
+    height: 100%;
+    width: 100%;
+}
